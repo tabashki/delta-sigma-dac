@@ -3,12 +3,14 @@ Delta-Sigma DAC
 
 This repo contains the OrCAD 17.4 schematic and board layout files for a prototype digital-to-analog converter project I created for a *Computer Design of Electronic Circuits* elective course I took at the [Faculty of Physics at Sofia University](https://www.phys.uni-sofia.bg/).
 
---------------------
 
 Photo of the first production prototype, manufactured by [JLCPCB](https://jlcpcb.com/).
 
+<div style="max-width: 400px">
+
 ![First production prototype](/doc/board_v0.1.png)
 
+</div>
 
 Design Goal
 ===========
